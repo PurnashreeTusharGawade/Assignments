@@ -1,5 +1,3 @@
-
-
 public class difference {
 	public static void sortarr(int a[]) {
 		for(int i=0;i<a.length;i++) {
